@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-PREPARO 60 MIN / RENDIMENTO 10 PORÇÕE
+PREPARO 60 MIN / RENDIMENTO 10 PORÇÕES
 
 -------------
 
