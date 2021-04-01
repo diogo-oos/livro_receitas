@@ -1,5 +1,18 @@
 # Livro de receitas :man_cook:
 
-Olá pessoa! Bem vindo ao meu livro de receitas!!
+```inglês
+Cookbook
+```
 
-- Strogonoff de Frango  
+Olá pessoa! Bem vindo ao meu livro de receitas !!
+
+```inglês
+Hello person! Welcome to my cookbook !!
+```
+
+- Strogonoff de Frango / Chicken strogonoff
+
+  
+
+  
+
