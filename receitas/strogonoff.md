@@ -42,11 +42,12 @@
   -----
 
 ```inglês
-Chicken Stroganoff
+English
+```
 
-----------
+# Chicken Strogonoff
 
-INGREDIENTS
+### INGREDIENTS
 
 - 3 chicken breasts cut into cubes
 - 1 chopped garlic clove
@@ -59,7 +60,7 @@ INGREDIENTS
 - 1 glass of sour cream
 - potato straw to taste
 
-METHOD OF PREPARATION
+### METHOD OF PREPARATION
 
 1. In a saucepan, mix the chicken, garlic, mayonnaise, salt and pepper.
 
@@ -73,7 +74,7 @@ METHOD OF PREPARATION
 
 6. Serve with white rice and straw potatoes.
 
-ADDITIONAL INFORMATION
+### ADDITIONAL INFORMATION
 
 - The stroganoff, despite being a very famous recipe among Brazilians, was born in Russia and was a dish served for Russian nobility. In Brazil, it became popular in the 1970s and was a special food, served at parties. It didn't take long, stroganoff arrived on the plates of all Brazilians and today it is part of our daily lives.
 
@@ -84,4 +85,3 @@ ADDITIONAL INFORMATION
 - By: Fernanda
 
 - Bibliography: tudogostoso.com
-```
