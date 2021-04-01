@@ -1,5 +1,9 @@
 # Strogonoff de Frango :chicken:
 
+PREPARO 60 MIN / RENDIMENTO 10 PORÇÕE
+
+-------------
+
 ### INGREDIENTES
 
 - 3 peitos de frango cortados em cubos
@@ -39,13 +43,16 @@
 
 - Bibliografia: tudogostoso.com
 
-  -----
 
 ```inglês
 English
 ```
 
 # Chicken Strogonoff :chicken:
+
+PREPARATION 60 MIN /  YIELD 10 SERVINGS
+
+--------------
 
 ### INGREDIENTS
 
