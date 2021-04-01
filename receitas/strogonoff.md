@@ -45,7 +45,7 @@
 English
 ```
 
-# Chicken Strogonoff
+# Chicken Strogonoff :chicken:
 
 ### INGREDIENTS
 
